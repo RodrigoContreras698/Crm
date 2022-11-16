@@ -1,0 +1,10 @@
+body{
+    background-color:#D3D3D3 ;   
+}
+.card{
+    margin: auto;
+    border-color: black;
+}
+.card-body{
+    background-color: #D3D3D3;
+}
